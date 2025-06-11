@@ -1,0 +1,13 @@
+{
+  "name": "The Dragon Coin",
+  "symbol": "DRACO",
+  "address": "CfkVjyKaURxwkjs1EjEkQm256fHU1EyfgQ29oPNCVrqg",
+  "description": "The Dragon Coin (DRACO) is a community-driven meme token on Solana, igniting the spirit of fire, fun and fair decentralization. No promises, just pure draconic energy.",
+  "decimals": 9,
+  "logoURI": "https://raw.githubusercontent.com/DracoTheDRagonCoin/DRACO/refs/heads/main/DracoLogo.png",
+  "tags": [
+    "community",
+    "meme",
+    "dragon"
+  ]
+}
